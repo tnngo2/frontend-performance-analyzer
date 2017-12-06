@@ -1,0 +1,9 @@
+{
+    "name": "perf-data-parser",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+        "devtools-timeline-model": "^1.3.1"
+    }
+}
